@@ -15,6 +15,11 @@
 - HTML, CSS, REACT 작업에 익숙해지기 위해 이 프로젝트를 시작했습니다.
 - HTML 문서 탐색, 이벤트 처리, 애니메이션, AJAX 호출 등을 보다 쉽게 다룰 수 있도록 도와주는 도구 JavaScript 라이브러리 jQuery를 사용하였습니다.
 
+## 사용 스택
+
+- React 18.2.0
+- jQuery
+
 ## 개발 환경 프로젝트 실행 방법
 
 1. **레포지토리 클론 :** `git clone https://seolhee313.github.io/web2023/site/site2/index.html`
