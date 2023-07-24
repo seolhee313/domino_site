@@ -18,7 +18,7 @@
 ## 개발 환경 프로젝트 실행 방법
 
 1. **레포지토리 클론 :** `git clone https://seolhee313.github.io/web2023/site/site2/index.html`
-2. **Node.js와 npm 설치 :** `Node.js 공식 웹사이트(https://nodejs.org)에서 Node.js를 다운로드하고 설치. Node.js를 설치하면 npm도 함께 설치됩니다.`
+2. **Node.js와 npm 설치 :** `Node.js 공식 웹사이트에서 Node.js를 다운로드하고 설치. Node.js를 설치하면 npm도 함께 설치됩니다.`([ Node.js ](https://nodejs.org))
 3. **React 프로젝트 생성 :** `npx create-react-app my-react-app`
 4. **scss 설치 :** `npm install node-sass`
 5. **router 설치 :** `npm install react-router-dom`
